@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Senadha</h1>
-<h3 align="center">A passionate Student from Sri Lanka at SLIIT University</h3>
+<h3 align="center">A passionate Computer Science Undergraduate from SLIIT University Sri lanka</h3>
 
 - 🌱 I’m currently learning **Python | C | AI**
 
