@@ -1,7 +1,7 @@
 # Hi 👋, I'm Senadha Weerasooriya
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1A73E8&center=true&vCenter=true&width=700&lines=Hi+I'm+Senadha;Computer+Science+Undergraduate;Python+%7C+C+%7C+AI+Learner;AI+%26+IoT+Project+Developer;Welcome+to+my+GitHub+Profile" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1A73E8&center=true&vCenter=true&width=700&lines=Hi+I'm+Senadha;Computer+Science+Undergraduate;Python+%7C+C+%7C+AI+Learner;AI+%26+IoT+%26+Python+Project+Developer;Welcome+to+my+GitHub+Profile" alt="Typing Animation" />
 </p>
 
 ### A passionate Computer Science Undergraduate from SLIIT University, Sri Lanka
