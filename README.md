@@ -46,10 +46,6 @@
 </p>
 
 <div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cswsen2&show_icons=true&locale=en&layout=compact" height="130" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cswsen2&theme=default" height="130" />
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cswsen2&show_icons=true&locale=en&layout=compact" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cswsen2&theme=default" height="150" />
 </div>
