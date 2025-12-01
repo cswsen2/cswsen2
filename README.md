@@ -26,18 +26,16 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=c" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=flask" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=flask" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=selenium" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=arduino" width="40" height="40"/>
 </p>
-
-<br><br>
 
 ---
 
@@ -49,9 +47,9 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cswsen2&show_icons=true&locale=en&layout=compact" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cswsen2&show_icons=true&locale=en&layout=compact" height="130" />
   </p>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cswsen2&theme=default" height="150" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cswsen2&theme=default" height="130" />
   </p>
 </div>
