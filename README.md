@@ -34,6 +34,7 @@
   <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=selenium" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=octave" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=arduino" width="40" height="40"/>
 </p>
 
