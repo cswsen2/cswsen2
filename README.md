@@ -42,9 +42,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github.com/cswsen2/cswsen2/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cswsen2&show_icons=true&locale=en&layout=compact" height="150" />
