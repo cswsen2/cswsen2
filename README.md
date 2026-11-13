@@ -1,12 +1,12 @@
 # Hi 👋, I'm Senadha Weerasooriya
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1A73E8&center=true&vCenter=true&width=700&lines=Hi+I'm+Senadha;Computer+Science+Undergraduate;Python+%7C+C+%7C+AI+Learner;AI+%26+IoT+%26+Python+Project+Developer;Welcome+to+my+GitHub+Profile" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1A73E8&center=true&vCenter=true&width=700&lines=Hi+I'm+Senadha;Computer+Science+Undergraduate;Python+%7C+Java+%7C+JavaScript+%7C+Spring+Boot;AI+%26+IoT+%26+Python+Project+Developer;Welcome+to+my+GitHub+Profile" alt="Typing Animation" />
 </p>
 
 ### A passionate Computer Science Undergraduate from SLIIT University, Sri Lanka
 
-- 🌱 I'm currently learning **Python | C | AI**
+- 🌱 I'm currently learning **Python | Java | JavaScript | Spring Boot**
 - 📫 Reach me at **tosenadha@gmail.com**
 - 📄 **[Download my CV / Resume](https://drive.google.com/file/d/1VjWuSULc_goO4KBBBlQSqYa2VYPvYHCE/view?usp=sharing)**
 
@@ -27,22 +27,21 @@
 ### 🛠️ Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=c" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=spring" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=flask" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=selenium" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=octave" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=arduino" width="40" height="40"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cswsen2&show_icons=true&locale=en&layout=compact" height="150" />
